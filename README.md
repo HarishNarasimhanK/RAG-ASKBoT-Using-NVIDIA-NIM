@@ -20,7 +20,7 @@ This Streamlit application enables users to upload PDFs and interact with their 
 ## Installation
 ```bash
 git clone https://github.com/HarishNarasimhanK/RAG-ASKBoT-Using-NVIDIA-NIM
-cd pdf-qa-chatbot
+cd RAG-ASKBoT-Using-NVIDIA-NIM
 pip install -r requirements.txt
 ```
 
