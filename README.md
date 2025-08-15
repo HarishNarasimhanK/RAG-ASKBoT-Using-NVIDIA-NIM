@@ -29,12 +29,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
-## License
-MIT License
-
-## Contributing
-Contributions are welcome. Please open issues or submit pull requests.
-
-## Disclaimer
-Ensure compliance with PDF content usage rights.
